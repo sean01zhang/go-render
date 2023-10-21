@@ -1,0 +1,12 @@
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6 h1:zDw5v7qm4yH7N8C8uWd+8Ii9rROdgWxQuGoJ9WDXxfk=
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b h1:GgabKamyOYguHqHjSkDACcgoPIz3w0Dis/zJ1wyHHHU=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
+github.com/gopherjs/gopherjs v1.17.2 h1:fQnZVsXk8uxXIStYb0N4bGk7jeyTalG/wsZjQ25dO0g=
+github.com/gopherjs/gopherjs v1.17.2/go.mod h1:pRRIvn/QzFLrKfvEz3qUuEhtE/zLCWfreZ6J5gM2i+k=
+github.com/goxjs/gl v0.0.0-20230705020350-37525f4d9d35 h1:0nrx2NBHnXyMlX9vZ+nHuuk9CUHbLeYfzhhYcIYO0aE=
+github.com/goxjs/gl v0.0.0-20230705020350-37525f4d9d35/go.mod h1:5N8oq1ByK4sl23tHlaSzAz+K3HembX6EP/bw25Nl1aU=
+github.com/goxjs/glfw v0.0.0-20230704040236-622eb27e272a h1:7PTr4KjX8oeckUIQgwRc/BwTJN4ti5dAR5MGoBHDKR8=
+github.com/goxjs/glfw v0.0.0-20230704040236-622eb27e272a/go.mod h1:sVbv2S3I5K7bTlalOHCPfV429ZpKzGq5zwsWgrzj5aQ=
+honnef.co/go/js/dom v0.0.0-20230808055721-96db8f4d5e3b h1:xXAdf0+OXZAdmc4cewENXYdfry1u03Fax3ucj3F9Duw=
+honnef.co/go/js/dom v0.0.0-20230808055721-96db8f4d5e3b/go.mod h1:sUMDUKNB2ZcVjt92UnLy3cdGs+wDAcrPdV3JP6sVgA4=
